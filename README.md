@@ -182,6 +182,3 @@ For any issues or queries, feel free to contact the project maintainer.
 
 ---
 
-## 🖍️ License
-
-This project is licensed under the MIT License.
